@@ -1,0 +1,341 @@
+#list_search11 #title {
+
+
+font-weight:bold;
+float:left;
+padding-left:5px;
+font-size:14px;
+	
+	
+}
+
+#list_search11 #list_search1 
+{
+
+width:1600px;
+padding-top:15px;
+float:left;
+font-size:14px;
+
+
+}
+
+#list_search11{
+	height:50px;
+	padding-top:50px;
+	
+
+}
+#list_search{
+float:right;
+margin-top:50px;
+}
+#list_search2{
+float:right;
+margin-right:530px;
+margin-top:-35px;
+
+}
+#list_search2 select {
+	width:80px;
+	height:27px; 
+	border:solid 1px #cccccc;
+}
+
+#list_search3{
+float:right;
+margin-top:-35px;
+margin-right:350px;
+}
+
+ #list_search3 input {
+
+height: 21px;
+}
+
+#list_search4{
+float:right;
+margin-top:-35px;
+margin-right:250px;
+
+}
+
+#list_top_title {
+	height:20px;
+	padding:14px; 
+	border-bottom:solid 2px #C4DEFF;
+	background-color:#C4DEFF;
+	margin-bottom:3px;
+	margin-top:200px;
+}
+
+#list_top_title li {
+	display:inline;
+font-size:12px;
+}
+
+#list_top_title #list_title1 {
+float:left;	
+margin-left:-20px;
+margin-top:-10px;
+}
+
+#list_top_title #list_title2 {
+float:left;
+margin-left:250px;
+margin-top:-10px;
+}
+
+#list_top_title #list_title3 {
+float:right;
+margin-right:90px;	
+margin-top:-10px;
+}
+
+#list_top_title #list_title4 {
+float:right;
+margin-right:70px;	
+margin-top:-10px;
+}
+
+#list_top_title #list_title5 {
+float:right;	
+margin-right:40px;
+margin-top:-10px;
+}
+
+#list_top_title #list_title6{
+float:right;
+margin-top:-10px;
+}
+#list_content {
+	height:380px;
+}
+
+#list_item {
+	height:18px;
+	margin-top:2px;
+	margin-left:5px;
+	padding:6px;  
+	border-bottom:solid 1px #eeeeee;
+}
+
+#list_item #list_item1{
+	float:left;
+	width:40px;
+margin-left:5px;
+	text-align:center;
+}
+
+#list_item #list_item2{
+	float:left;
+margin-left:250px;
+	width:560px;
+}
+
+#list_item #list_item3{
+	float:right;
+	text-align:center;
+}
+
+#list_item #list_item4{
+	float:right;
+	margin-right:40px;	
+	width:40px;
+	text-align:center;
+	
+}
+
+#list_item #list_item5{
+	float:right;
+margin-right:110px;
+	width:80px;
+	text-align:center;
+}
+#list_item #list_item6{
+float:right;
+width:40px;
+margin-right:60px;
+text-align:center;
+
+}
+#page_button {
+	margin-top:20px;
+}
+
+#page_num {
+	float:left;
+	width:80%;
+	margin-top:10px;
+	text-align:center;
+}
+
+#button {
+	float:right;
+	width:18%;
+	margin-top:30px;
+	text-align:right;
+}
+
+/* write_form css */
+
+
+#write_form {
+	margin-top:100px;
+
+}
+
+#write_form #write_row1 {
+
+    	width:99%; 
+	height:25px; 
+	margin:2px 0 2px 0; 
+}
+
+#write_form #write_row2 {
+    width:99%; 
+	height:25px; 
+	margin:2px 0 2px 0; 
+
+}
+
+#write_form #write_row3 {
+    width:99%; 
+	height:251px; 
+	margin:2px 0 2px 0; 
+}
+
+
+
+
+#write_form .col1 {
+margin-left:200px;
+;
+	float:left;
+	width:120px;
+	text-align:center;
+	padding:5px;
+background-color:#B2CCFF;
+
+}
+
+#write_form #write_row3 .col1 {
+margin-left:-742px;
+	height:100px;
+	padding-top:130px;
+
+}
+
+
+#write_form .col2 {
+	float:left;
+	margin-left: 8px;
+	margin-top:2px;
+
+
+}
+
+#write_form #write_row1 .col2 {
+	float:left;
+	margin-top:6px;
+}
+
+#write_form #write_row1 .col3 {
+	float:left;
+	margin-top:4px;
+	margin-left:100px;
+}
+
+
+#write_row2 .col2 input {
+float:left;
+	width:600px;
+	height:17px;	
+	margin-top:-45px;
+	text-align:center;
+	border:solid 1px #cccccc;
+
+}
+
+#write_row3 .col2 textarea {
+margin-left:-612px;
+width:600px;
+    margin-top:1px;
+	border:solid 1px #cccccc;
+}
+
+
+#write_button {
+	margin-top:15px;
+	width:97%;
+	text-align:right;
+}
+
+
+#view_comment {
+	margin:10px 0 0 10px;
+}
+
+#view_title {
+	height:25px;
+	padding:30px 8px 8px 8px;  
+	//border-top:solid 2px #D9E5FF;
+	background-color:#B2CCFF;
+	margin-bottom:5px;
+	font-size:11px;
+}
+
+
+#view_title1 {
+	float:left;
+	width:70%;
+
+}
+
+#view_title2 {
+	float:left;
+	width:28%;
+	text-align:right;
+}
+
+#view_content {
+	width:96%;
+	min-height:200px;
+	padding:15px;
+	overflow:hidden;
+	line-height:150%;
+	border-bottom:solid 1px #cccccc;
+}
+
+#view_button {
+	width:98%;
+	text-align:right;
+	margin-top:15px;
+	margin-bottom:15px;
+}
+
+#content {
+margin-top: 60px;
+
+}
+#write_row2 .col2{
+margin-top: 50px;
+
+text-align:center;
+background-color : #FF007F;
+}
+
+.write_line #write_row3 {
+padding-top : 50px;
+background-color : #1DDB16;
+
+}
+
+.write_line #write_row3  textarea {
+ margin-top:1px;
+ width:650px;
+	height:300px;	
+	border:solid 1px #cccccc;
+	text-align : center;
+margin-left:340px;
+}
